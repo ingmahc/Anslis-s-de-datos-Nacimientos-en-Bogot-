@@ -74,5 +74,5 @@ Al tener los datos cargados puedes:
 
 ## 📄 Licencia
 
-Este repositorio se genera con fines académicos para la práctica SQL. Si deseas reutilizar parte del código o los datos, por favor atribuye al autor original.
+Este repositorio se genera con fines académicos para la práctica SQL.
 
